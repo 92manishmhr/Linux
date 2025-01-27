@@ -1,3 +1,4 @@
+***NFS-Client-end-Configuration-Steps***
 --Step 01
 [root@practise sysadmin]# yum install nfs-utils -y
 /*
