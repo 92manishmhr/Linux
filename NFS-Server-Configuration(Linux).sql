@@ -1,4 +1,4 @@
-**Server Configuration**
+***Server Configuration***
 --Step
 [root@server01 sysadmin]# yum install -y nfs-utils
 /*
