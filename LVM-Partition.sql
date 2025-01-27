@@ -1,3 +1,4 @@
+******LVM Configuration********
 --Step 01
 [root@server01 sysadmin]# lsblk
 /*NAME                                                                                        MAJ:MIN RM  SIZE RO TYPE    MOUNTPOINTS
