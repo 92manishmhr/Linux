@@ -1,4 +1,3 @@
-***Tuned-System-Performance***
 --Step 01
 [root@server01 /]# yum install -y tuned
 /*Last metadata expiration check: 0:49:51 ago on Mon 27 Jan 2025 01:05:12 PM +0545.
